@@ -13,7 +13,7 @@ function(param1, param2) {
 ```
 
 ```shell
-$npm install
+$ npm install
 $ node index.js
 $ curl http://localhost:3000/
 $ curl http://localhost:3000/animals

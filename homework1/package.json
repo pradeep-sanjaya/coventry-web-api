@@ -1,0 +1,15 @@
+{
+  "name": "Homework1",
+  "version": "1.0.0",
+  "description": "Create a simple website and respond to home, about resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep-sanjaya/coventry-web-api.git"
+  },
+  "author": "Pradeep Sanjaya",
+  "license": "MIT"
+}
