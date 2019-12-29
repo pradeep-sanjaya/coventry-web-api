@@ -1,0 +1,10 @@
+* {
+    font-size: 24px;
+}
+.form .field {
+    margin-bottom: 10px;
+}
+.form .field label {
+    width: 400px;
+    display: block;
+}
