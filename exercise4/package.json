@@ -1,0 +1,31 @@
+{
+  "name": "exercise4",
+  "version": "1.0.0",
+  "description": "* Initialize a nodejs module with npm. * Usage on npmjs.com. * Use core module, use path module to get file extension of a path. * Use third party nodejs module, use uppercase thirdparty package in a project.",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "upper-case": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep-sanjaya/coventry-web-api.git"
+  },
+  "keywords": [
+    "Coventry",
+    "Computing",
+    "Web",
+    "API",
+    "Development"
+  ],
+  "author": "Pradeep Sanjaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradeep-sanjaya/coventry-web-api/issues"
+  },
+  "homepage": "https://github.com/pradeep-sanjaya/coventry-web-api#readme"
+}
